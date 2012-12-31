@@ -24,4 +24,4 @@ The software industry is starting to understand that the cost of software patent
 Proposal: open crypto
 --
 
-As an industry, we should join forces and follow the example set by http://www.openpatents.org/, a mutual non-aggression pact that freely licenses crypto patents to anyone, as long as they do not ever use a crypto patent aggressively. This will enable smooth industry collaboration as well as the involvement of open-source projects.
+As an industry, we should follow the example set by http://www.openpatents.org/, a mutual non-aggression pact that freely licenses crypto patents to anyone, as long as they do not ever use a crypto patent aggressively. Crypto algorithms should be free for all to analyze, improve, and implement in any setting. Only then will we be able to move developers away from older algorithms and onto new, more secure ones.
