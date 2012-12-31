@@ -1,5 +1,6 @@
 The End of Crypto Patents
 ===
+Ben Adida - December 31st, 2012
 
 Overview
 --
