@@ -5,12 +5,12 @@ Ben Adida - December 31st, 2012
 Overview
 --
 
-Cryptographers have long noticed a large and growing gap between the latest research developments and what is used in practice. The reasons for this growing gap are many. One of them -- the systematic patenting of new crypto algorithms and methods -- is, in my opinion, insufficiently highlighted. Before we can truly consider the replacement of a major cryptographic building block -- RSA --, we must consider addressing this problem.
+Cryptographers have long noticed a large and growing gap between the latest research developments and what is used in practice. One often-overlooked reason is that new crypto algorithms and methods are systematically patented, thus thwarting their use in standards- and specifically Web-based technology. Unless we address this problem, we have no chance of convincing developers to adopt new cryptographic algorithms and methods.
 
 Crypto is Essential
 --
 
-Cryptographic algorithms are most useful in use cases that require interoperaiblity between systems, e.g. one party encrypts or signs, another party, using different software, decrypts or verifies. This is increasingly true with the ever-increasing dominance of the Web with multiple browser vendors -- including some fully open-source. Because cryptography mediates communication, it is typically only useful when it becomes part of a standard, formal or ad-hoc. Thus, new cryptographic algorithms are only interesting if they can play a part in these standards. In other words, cryptography is either essential or useful only to small niches.
+Cryptographic algorithms are most useful in use cases that require interoperability between systems, e.g. one party encrypts or signs, and another party, using different software, decrypts or verifies. This is increasingly true with the ever-increasing dominance of the Web and its multiple browser vendors -- including some fully open-source. Thus, cryptography is most useful when it becomes part of a standard, formal or ad-hoc. In other words, cryptography is almost always essential.
 
 Crypto is systematically patented
 --
